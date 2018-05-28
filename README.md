@@ -1,2 +1,2 @@
 # sadl-examples
-Example projects for the SADL Web
+Example projects for the Web SADL
