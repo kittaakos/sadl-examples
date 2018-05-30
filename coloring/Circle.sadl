@@ -5,3 +5,5 @@ import "http://sadl.org/Shapes.sadl" as Shapes.
 Shapes:Circle is a type of Shape described by radius with values of type float.
 
 Rule Area: if x is a Shapes:Circle then area of x is radius of x ^2 * PI.
+
+// comment
